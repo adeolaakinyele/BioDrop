@@ -1,0 +1,20 @@
+{
+  "name": "Adeola Akinyele",
+  "bio": "Technical Writer | Frontend Dveloper| 3D Artist"
+  "links": [
+    {
+      "group": "Socials Primary",
+      "name": "LinkedIn: Let's connect",
+      "url": "https://www.linkedin.com/in/adeola-akinyele-abigael",
+      "icon": "FaLinkedin",
+      "color": "#00ACEE"
+    },
+    {
+      "group": "Socials Primary",
+      "name": "GitHub: Let's connect",
+      "url": "https://github.com/adeolaakinyele",
+      "icon": "FaGithub",
+      "color": "#00ACEE"
+    }
+]
+}
